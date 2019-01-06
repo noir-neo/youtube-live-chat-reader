@@ -1,0 +1,19 @@
+{
+  "name": "youtube-live-chat-reader",
+  "version": "1.0.0",
+  "description": "read youtube live chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noir-neo/youtube-live-chat-reader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noir-neo/youtube-live-chat-reader/issues"
+  },
+  "homepage": "https://github.com/noir-neo/youtube-live-chat-reader#readme"
+}
