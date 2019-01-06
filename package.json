@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/noir-neo/youtube-live-chat-reader/issues"
   },
-  "homepage": "https://github.com/noir-neo/youtube-live-chat-reader#readme"
+  "homepage": "https://github.com/noir-neo/youtube-live-chat-reader#readme",
+  "dependencies": {
+    "youtube-live-chat": "^1.0.3"
+  }
 }
